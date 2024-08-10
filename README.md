@@ -1,10 +1,7 @@
-# Black-Friday-Python
-An insightful Python project focused on analyzing Black Friday sales data to uncover consumer trends and preferences
-** This project utilizes data from retail transactions to explore patterns in purchasing behavior, product preferences, and demographic segments. Through data preprocessing, exploratory analysis, and visualization techniques, it aims to identify key factors influencing sales performance during the Black Friday period. Advanced analytics, including clustering and regression modeling, are applied to predict sales volumes and customer segmentation. This project offers valuable insights for retailers and marketers seeking to optimize their strategies for Black Friday promotions and sales campaigns."
+Problem Statement: Company wants to know customer purchase behavior across various product categories. They seek to analyze last month's data to understand how demographic factors and product details influence purchase amounts for selected high-volume products.
 
+Approach: Conducted data preprocessing and exploratory analysis to identify factors impacting purchasing behavior and product preferences.Used Numpy & Pandas.
 
+Conclusion:
 
-
-
-
-**
+Analysis of last month's data reveals that demographic factors and product details significantly influence purchase amounts across high-volume product categories.
